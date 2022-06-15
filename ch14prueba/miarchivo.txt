@@ -1,0 +1,4 @@
+Se saluda a un amigo
+
+#Este es un comentario.
+
