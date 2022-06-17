@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Proyectos Código"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
