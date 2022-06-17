@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Se modifica las propiedades del h1 */
 h1 {
     background-color: black;
     color: beige;
@@ -12,5 +12,15 @@ h1 {
 
 h2 {
     padding: 5px;
-    text-align: start;
+    text-align: center;;
+}
+h3{
+    background-color: darkslategrey;
+    color: azure;
+    padding: 20px;
+    text-align: center;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
 }
